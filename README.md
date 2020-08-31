@@ -42,13 +42,12 @@ El análisis se ha reducido a Estados Unidos, Australia y Sudáfrica, ya que son
         - EEUU: 6,5 millones de toneladas - 23Kg per cápita al año
         - Australia: 769 mil toneladas - 20Kg per cápita al año
         - Sudáfrica: 2,3 millones de toneladas / 33 mil toneladas - 19Kg per cápita al año 
-            (fuente: http://www.fao.org/3/w3265s/w3265s04.htm)
     - Donde más volumen de pesca existe es en EEUU, y es donde menos ataques a pescadores existen, por lo que es la zona más segura para pescar, dentro de las zonas donde atacan los tiburones. Sudáfrica es la zona donde más ataques a pescadores hay, pero teniendo en cuenta el ratio de ataques con respecto al volumen de pesca, podemos comprobar que la zona más peligrosa para realizar esta actividad es Australia.
 
 # Recursos adicionales para el análisis
-- Población
+- Población:
     https://datosmacro.expansion.com/demografia/poblacion/australia
     https://datosmacro.expansion.com/demografia/poblacion/sudafrica
     https://datosmacro.expansion.com/demografia/poblacion/usa
-- Volumen de pesca
+- Volumen de pesca:
     http://www.fao.org/3/w3265s/w3265s04.htm)
